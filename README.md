@@ -1,4 +1,4 @@
-# React + Vite
+# Data Fetching + Pagination
 
 This repository demonstrates how to perform data fetching and implement pagination using the [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts/) API. The JSONPlaceholder API provides a simulated RESTful API for testing and prototyping.
 
