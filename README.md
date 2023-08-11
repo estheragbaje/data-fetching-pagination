@@ -18,12 +18,13 @@ To get started with data fetching and pagination, follow these steps:
 
 ```
 npm install
+```
 
 3. Start the development server
 
 ```
-
 npm start
+```
 
 ## Next steps
 
